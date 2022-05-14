@@ -1,6 +1,14 @@
 
 [![MasterHead](https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png)](https://zakariya.me)
 
+<p align="center">
+<a href="https://twitter.com/zakaariyee"><img src="https://img.shields.io/badge/@zakaariyee-edf2f4?&style=for-the-badge&logo=twitter&logoColor=457b9d" height=30></a>
+<a href="https://www.codewars.com/users/Zakariyya"><img src="https://img.shields.io/badge/@Zakariyya-edf2f4?&style=for-the-badge&logo=Codewars&logoColor=457b9d" height=30></a>
+<a href="mailto:info@zakariya.me"><img src="https://img.shields.io/badge/info@zakariya.me-edf2f4?&style=for-the-badge&logo=gmail&logoColor=457b9d" height=30></a>
+<a href="https://www.linkedin.com/in/zakarie-yaris/"><img src="https://img.shields.io/badge/Zakarie Yaris-edf2f4?&style=for-the-badge&logo=linkedin&logoColor=457b9d" height=30></a>
+<a href="https://dev.to/USER"><img src="https://img.shields.io/badge/Resume-edf2f4?&style=for-the-badge&logo=googledrive&logoColor=457b9d" height=30></a>
+</p>
+
 <br />
 <br />
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
