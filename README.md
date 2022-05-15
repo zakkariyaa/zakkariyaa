@@ -1,5 +1,4 @@
-
-[![MasterHead](https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png)](https://zakariya.me)
+<a href='https://zakariya.me/'><img src='https://github.com/zakkariyaa/zakkariyaa/blob/main/banner2.png?raw=true' width='100%' /></a>
 
 <p align="center">
 <a href="https://twitter.com/zakaariyee"><img src="https://img.shields.io/badge/@zakaariyee-edf2f4?&style=for-the-badge&logo=twitter&logoColor=457b9d" height=30></a>
