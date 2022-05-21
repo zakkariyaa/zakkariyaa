@@ -40,6 +40,52 @@
 <br />
 
 
+<h2 align="center">Latest Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Tenzies Game</h2>
+<div align="center" >  
+<a href=https://tenzies-dice.netlify.app/'>
+<img src="https://raw.githubusercontent.com/zakkariyaa/tenzies-game/master/src/assets/tenzies2.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/zakkariyaa/tenzies-game" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://tenzies-dice.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Video to Audio Converter</h2>
+<div align="center" >  
+<a href="https://video-converterr.netlify.app/">
+<img src="https://raw.githubusercontent.com/zakkariyaa/video-converter/938736fe09d63aef56365ad015825da5bb2529ce/src/assets/converter2.gif?raw=true" alt="" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/zakkariyaa/video-converter" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://video-converterr.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> - Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
+</div>
+</td>
+</div>
+</table>
+
+
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
 <table>
