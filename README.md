@@ -12,11 +12,8 @@
 <br />
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A Full Stack Software Engineer from London</h3>
-<img align="right" width="400" align="coding gif" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
+<img align="right" alt="coding gif" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
-<br />
-<br />
-<br />
 <p align="left"> <a href="https://twitter.com/zakaariyee" target="blank"><img src="https://img.shields.io/twitter/follow/zakaariyee?logo=twitter&style=for-the-badge" alt="zakaariyee" /></a> </p>
 
 - 🔭 I’m currently working on **Murti**
