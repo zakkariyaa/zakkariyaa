@@ -48,7 +48,7 @@
 <h3 align="center" color="white">Tenzies Game</h2>
 <div align="center" >  
 <a href=https://tenzies-dice.netlify.app/'>
-<img src="https://raw.githubusercontent.com/zakkariyaa/tenzies-game/743420fd5f94393015d0b06b7b88f36762696fe4/src/assets/tenzies2.gif?raw=true" alt="Naruto Game" height="300px" width="100%" />
+<img src="https://raw.githubusercontent.com/zakkariyaa/tenzies-game/743420fd5f94393015d0b06b7b88f36762696fe4/src/assets/tenzies2.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
 </a>
 <br>
 <br>
