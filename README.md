@@ -26,7 +26,7 @@
 
 - 📫 You can reach me at **info@zakariya.me**
 
-- ⚡ Fun fact **I am Licensed to practice Medicine in three countries**
+<!-- - ⚡ Fun fact **I am Licensed to practice Medicine in three countries** -->
 
 <br />
 
