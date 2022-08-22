@@ -40,6 +40,7 @@
 <br />
 
 
+<!--
 <h2 align="center">Latest Projects </h2>
 <div align="center">
 <table>
@@ -84,7 +85,7 @@
 </td>
 </div>
 </table>
-
+-->
 
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
