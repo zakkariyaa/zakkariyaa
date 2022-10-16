@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
-- 👨‍💻 All of my projects are available at [zakariya.me](zakariya.me)
+- 👨‍💻 All of my projects are available at [zakariya.me](https://zakariya.me/)
 
 - 💬 Ask me about **react, express and python**
 
