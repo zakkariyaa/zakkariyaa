@@ -10,7 +10,7 @@
 
 <br />
 <br />
-<h1 align="center">Hi 👋, I'm Zakaria</h1>
+<h1 align="center">Hi 👋, I'm Zakarie</h1>
 <h3 align="center">A Full Stack Software Engineer from London</h3>
 <img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
@@ -26,7 +26,7 @@
 
 - 📫 You can reach me at **info@zakariya.me**
 
-<!-- - ⚡ Fun fact **I am Licensed to practice Medicine in three countries** -->
+<!-- - ⚡ Fun fact **s** -->
 
 <br />
 
@@ -40,8 +40,8 @@
 <br />
 
 
-<!--
-<h2 align="center">Latest Projects </h2>
+
+<!-- <h2 align="center">Latest Projects </h2>
 <div align="center">
 <table>
 <tr>
@@ -49,7 +49,7 @@
 <h3 align="center" color="white">Tenzies Game</h2>
 <div align="center" >  
 <a href=https://tenzies-dice.netlify.app/'>
-<img src="https://raw.githubusercontent.com/zakkariyaa/tenzies-game/743420fd5f94393015d0b06b7b88f36762696fe4/src/assets/tenzies2.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+<img src="https://raw.githubusercontent.com/zakkariyaa/tenzies-game/743420fd5f94393015d0b06b7b88f36762696fe4/src/assets/tenzies2.gif?raw=true" alt="Tenzies Game" height="322px" width="100%" />
 </a>
 <br>
 <br>
@@ -84,8 +84,8 @@
 </div>
 </td>
 </div>
-</table>
--->
+</table> -->
+
 
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
@@ -95,7 +95,11 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=zakkariyaa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=457b9d&sideNums=457b9d&sideLabels=2b2d42&background=FFFFFF00">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zakkariyaa&bg_color=edf2f4&hide_border=true&text_color=457b9d&title_color=2b2d42&include_all_commits=true&count_private=true">
+ 
+[![Zakarie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakkariyaa)](https://github.com/zakkariyaa/github-readme-stats)
+ 
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=zakkariyaa&bg_color=edf2f4&hide_border=true&text_color=457b9d&title_color=2b2d42&include_all_commits=true&count_private=true"> -->
+
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=zakkariyaa&bg_color=FFFFFF00&color=2b2d42&line=457b9d&point=2b2d42&hide_border=true&title_color=fa8b00">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zakkariyaa&bg_color=FFFFFF00&color=2b2d42&line=457b9d&point=2b2d42&hide_border=true&title_color=fa8b00">
